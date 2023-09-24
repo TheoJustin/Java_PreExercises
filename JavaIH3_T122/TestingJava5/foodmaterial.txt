@@ -1,0 +1,8 @@
+gulai#carbohydrat#3500#5
+ayam#carbohydrat#4000#1
+kol#vegetable#3500#5
+toge#vegetable#4000#1
+apel#fruit#3500#5
+pear#fruit#4000#1
+nasi#protein#3500#5
+susu#protein#4000#1

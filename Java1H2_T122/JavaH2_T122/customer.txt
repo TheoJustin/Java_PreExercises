@@ -1,0 +1,2 @@
+edd9f19b-75d5-44b7-a213-098324ad9d55,theojus,theo123,Customer,0
+efd9g19a-25d5-43b7-a233-098324ad9d52,admin123,admin123,Admin,0
